@@ -1,0 +1,9 @@
+Q1. Find account balance of those who have taken both housing loan and personal loan.
+
+Q2. Find account balance of those who are over the age of 30, single and have taken a personal loan.
+
+Q3. Find the average balance of blue-collar divorced people.
+
+Q4. Find and print average balances of all job types.
+
+Q5. Find and print the balances and jobs of people whose balance is greater than the average balance of blue-collar people.
