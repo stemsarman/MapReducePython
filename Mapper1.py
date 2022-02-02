@@ -1,4 +1,8 @@
-# Find account balance of those who have taken both housing loan and personal loan.
+"""
+    Ques: Find account balance of those who have taken both housing loan and personal loan.
+    To run: In Windows based system, type the below command.
+    'type bank.csv | python Mapper1.py'
+"""
 
 import sys
 
