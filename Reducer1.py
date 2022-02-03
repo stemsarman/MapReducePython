@@ -6,11 +6,12 @@
 
 import sys
 
+# read each line from the mapper code output.
 for line in sys.stdin:
     # remove leading and trailing white spaces and split the data from the Mapper code
-    line = line.strip().line.split('\t')
+    line = line.strip().split('\t')
 
-    # extracting the data from the Mapper code
+    # extract and store the data in appropriate variables from the mapper code output
     bal = int(line[0])
     hloan = line[1]
     ploan = line[2]
