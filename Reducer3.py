@@ -7,6 +7,7 @@ counter = 0
 total = 0
 # read each line of the bank.csv file
 for line in s.stdin:
+    # remove leading and trailing white spaces
     line = line.strip().split('\t')
 
     # read the bank.csv file and store necessary data in appropriate variables
